@@ -4,6 +4,7 @@
 }
 
 <h1>Listado de Pacientes</h1>
+<a class="btn btn-primary" asp-page=".\Create">Nuevo Paciente</a>
 <table class="table">
     <thead class="table table-dark">
         <tr>
@@ -13,7 +14,7 @@
             <th scope="col">Acciones</th>
         </tr>
     </thead>
-    </tbody>
+    <tbody>
         @foreach (var paciente in Model.pacientes)
         {
             <tr>
@@ -21,6 +22,7 @@
                 <td>@paciente.Apellidos</td>
                 <td>@paciente.NumeroTelefono</td>
                 <td><a class="btn btn-primary" asp-page = "./Details" asp-route-id="@paciente.Id">Detalle</a></td>
+                <td><a class="btn btn-secondary" asp-page = "./Edit" asp-route-id="@paciente.Id">Modificar</a></td>
             </tr>
         }
     </tbody>

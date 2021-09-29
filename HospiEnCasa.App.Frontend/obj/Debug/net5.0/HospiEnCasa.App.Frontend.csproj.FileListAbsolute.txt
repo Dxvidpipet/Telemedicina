@@ -72,3 +72,5 @@ C:\Users\asus\Desktop\Curso Mintic\Desarrollo de Software\Ciclo 3\Semana2\Hospit
 C:\Users\asus\Desktop\Curso Mintic\Desarrollo de Software\Ciclo 3\Semana2\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Frontend\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.pdb
 C:\Users\asus\Desktop\Curso Mintic\Desarrollo de Software\Ciclo 3\Semana2\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Frontend\bin\Debug\net5.0\HospiEnCasa.App.Dominio.pdb
 C:\Users\asus\Desktop\Curso Mintic\Desarrollo de Software\Ciclo 3\Semana2\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Frontend\obj\Debug\net5.0\Razor\Pages\Pacientes\Details.cshtml.g.cs
+C:\Users\asus\Desktop\Curso Mintic\Desarrollo de Software\Ciclo 3\Semana2\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Frontend\obj\Debug\net5.0\Razor\Pages\Pacientes\Create.cshtml.g.cs
+C:\Users\asus\Desktop\Curso Mintic\Desarrollo de Software\Ciclo 3\Semana2\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Frontend\obj\Debug\net5.0\Razor\Pages\Pacientes\Edit.cshtml.g.cs

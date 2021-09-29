@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\asus\\Desktop\\Curso Mintic\\Desarrollo de Software\\Ciclo 3\\Semana2\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Pacientes\\Edit.cshtml",
+      "TargetPath": "Pages\\Pacientes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\asus\\Desktop\\Curso Mintic\\Desarrollo de Software\\Ciclo 3\\Semana2\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15651,6 +15656,11 @@
     {
       "FilePath": "c:\\Users\\asus\\Desktop\\Curso Mintic\\Desarrollo de Software\\Ciclo 3\\Semana2\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\asus\\Desktop\\Curso Mintic\\Desarrollo de Software\\Ciclo 3\\Semana2\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Pacientes\\Create.cshtml",
+      "TargetPath": "Pages\\Pacientes\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
