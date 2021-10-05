@@ -21,8 +21,13 @@
                 <td>@paciente.Nombre</td>
                 <td>@paciente.Apellidos</td>
                 <td>@paciente.NumeroTelefono</td>
-                <td><a class="btn btn-primary" asp-page = "./Details" asp-route-id="@paciente.Id">Detalle</a></td>
-                <td><a class="btn btn-secondary" asp-page = "./Edit" asp-route-id="@paciente.Id">Modificar</a></td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page = "./Details" asp-route-id="@paciente.Id">
+                    <i class="fas fa-info-circle fa-lg"></i> Detalles</a>
+                        
+                    <a class="btn btn-secondary table-btn" asp-page = "./Edit" asp-route-id="@paciente.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i> Modificar</a>
+                </td>
             </tr>
         }
     </tbody>
